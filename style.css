@@ -1,0 +1,70 @@
+body {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.box {
+  position: absolute;
+  left: 400px;
+  top: 10px;
+  width: 700px;
+  height: 500px;
+}
+
+.pres {
+  width: 330px;
+  height: auto;
+  position: absolute;
+  top: 90px;
+  left: 15px;
+}
+
+.pres dt {
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+}
+
+.pres p {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+
+.ima img {
+  position: absolute;
+  top: 70px;
+  left: 60%;
+}
+
+.mas button {
+  background-color: transparent;
+  border-radius: 10px;
+  border: solid transparent;
+  position: absolute;
+  top: 270px;
+  left: 100px;
+  width: auto;
+  height: auto;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.mas button:hover {
+  background-color: white;
+
+  border: solid transparent;
+  position: absolute;
+  top: 270px;
+  left: 100px;
+  width: auto;
+  height: auto;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+
+.gif img{
+    position: absolute;
+    top: 300px;
+    right: 100px;
+    width: 300px;
+    height: auto;
+}
